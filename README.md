@@ -41,6 +41,7 @@ panel, ensuring navigation accuracy even when station configurations change.
 
 
 ## Use Cases
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a78966e-1963-4e9e-be5c-0266aa2ac2a7" />
 
 
 ## Technology Stack
