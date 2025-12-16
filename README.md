@@ -36,7 +36,8 @@ used to dynamically generate optimal routes.
 Station administrators can update layouts and facility information through an admin
 panel, ensuring navigation accuracy even when station configurations change.
 
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a1c0d11-209c-4540-9a00-2e23b1e6ada4" />
+
 
 
 ## Use Cases
